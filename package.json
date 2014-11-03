@@ -2,6 +2,7 @@
     "name": "wishes",
     "version": "0.2.1",
     "description": "wishes",
+    "license": "MIT",
     "author": "Zhenzhen Zhan <zhanzhenzhen@hotmail.com>",
     "homepage": "https://github.com/zhanzhenzhen/wishes",
     "repository": {
